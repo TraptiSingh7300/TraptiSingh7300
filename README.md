@@ -23,7 +23,7 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 📂 Projects
 
 - [Instagram Clone](https://github.com/TraptiSingh7300/Instagram_Clone): A full-stack clone of Instagram built for practice.
-- [FreeCodeCamp Survey Form](https://github.com/TraptiSingh7300/freecodecamp_survey_form): Responsive survey form using HTML & CSS.
+- [Survey Form](https://github.com/TraptiSingh7300/freecodecamp_survey_form): Responsive survey form using HTML & CSS.
 - [Certificates](https://github.com/TraptiSingh7300/certificates): My earned certificates from online courses.
 
 ---

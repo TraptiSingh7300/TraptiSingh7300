@@ -22,7 +22,7 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 
 ## 📂 Projects
 
-- [Instagram Clone](https://github.com/TraptiSingh7300/Instagram_Clone): A full-stack clone of Instagram built for practice.
+- [Instagram Clone](https://github.com/TraptiSingh7300/Instagram_Clone): A clone of Instagram built for practice.
 - [Survey Form](https://github.com/TraptiSingh7300/freecodecamp_survey_form): Responsive survey form using HTML & CSS.
 - [Certificates](https://github.com/TraptiSingh7300/certificates): My earned certificates from online courses.
 
@@ -31,15 +31,14 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 📈 Learning Journey
 
 Currently working on:
-- Building a full-featured personal portfolio with Java backend and MySQL database.
+- Building a personal portfolio.
 - Improving my frontend skills with HTML, CSS, and JavaScript.
-- Exploring Spring Boot for backend development.
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [your-email@example.com]
+- Email: [traptisingh7300@gmail.com]
 - LinkedIn: [Your LinkedIn profile link]
 - Portfolio: *Coming Soon!*
 

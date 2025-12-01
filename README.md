@@ -39,7 +39,7 @@ Currently working on:
 ## 📫 Contact Me
 
 - Email: [traptisingh7300@gmail.com]
-- LinkedIn: [Your LinkedIn profile link]
+- LinkedIn: (https://www.linkedin.com/in/trapti-singh-3a3676251/)
 - Portfolio: *Coming Soon!*
 
 ---

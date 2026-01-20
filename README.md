@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Trapti Singh!
 
 🎓 **Student & Aspiring Developer**  
-💻 **Skills:** Java, HTML, CSS, JavaScript, MySQL  
+💻 **Skills:** Core Java, HTML, CSS, JavaScript, MySQL, C programming, git & github  
 🌐 **Portfolio Project:** Personal Portfolio
 
 ---

@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about web development and backend programming. Currently, I'm building my own personal portfolio to showcase my skills and projects. I love learning new technologies and working on real-world applications.
+I'm passionate about web development and backend programming. Currently, I'm building my own E-commerce Web Application to showcase my skills and projects. I love learning new technologies and working on real-world applications.
 
 ---
 

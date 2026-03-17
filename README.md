@@ -2,7 +2,7 @@
 
 🎓 **Student & Aspiring Developer**  
 💻 **Skills:** Core Java, HTML, CSS, JavaScript, MySQL, C programming, git & github  
-🌐 **Portfolio Project:** Personal Portfolio
+🌐 **Ongoing Project:** E-Commerce Web Application
 
 ---
 
@@ -14,7 +14,7 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 🛠️ My Tech Stack
 
 - **Languages:** Java, HTML, CSS, JavaScript, SQL
-- **Database:** MySQL
+- **Database:** MySQL, MongoDB
 - **Web:** Responsive design, interactive UI
 - **Tools:** VS Code, Git, GitHub
 
@@ -40,7 +40,7 @@ Currently working on:
 
 - Email: [traptisingh7300@gmail.com]
 - LinkedIn: (https://www.linkedin.com/in/trapti-singh-3a3676251/)
-- Portfolio: *Coming Soon!*
+- E-Commerce Web Application: *Coming Soon!*
 
 ---
 

@@ -31,7 +31,7 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 📈 Learning Journey
 
 Currently working on:
-- Building a personal portfolio.
+- Building a E-commerce web application.
 - Improving my frontend skills with HTML, CSS, and JavaScript.
 
 ---

@@ -13,7 +13,7 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 
 ## 🛠️ My Tech Stack
 
-- **Languages:** Java, HTML, CSS, JavaScript, SQL
+- **Languages:** HTML, CSS, JavaScript, SQL, Python
 - **Database:** MySQL, MongoDB
 - **Web:** Responsive design, interactive UI
 - **Tools:** VS Code, Git, GitHub

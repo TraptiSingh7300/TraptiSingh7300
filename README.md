@@ -2,7 +2,7 @@
 
 🎓 **Student & Aspiring Developer**  
 💻 **Skills:** HTML, CSS, JavaScript, MySQL, C programming, git & github  
-🌐 **Ongoing Project:** E-Commerce Web Application
+🌐 **Latest Project:** E-Commerce Web Application (VIBECART)
 
 ---
 
@@ -31,8 +31,8 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 📈 Learning Journey
 
 Currently working on:
-- Building a E-commerce web application.
-- Improving my frontend skills with HTML, CSS, and JavaScript.
+- Building a Personal Portfolio.
+- Improving my frontend skills with HTML, CSS, JavaScript, Raact and Tailwind CSS.
 
 ---
 
@@ -40,7 +40,7 @@ Currently working on:
 
 - Email: [traptisingh7300@gmail.com]
 - LinkedIn: (https://www.linkedin.com/in/trapti-singh-3a3676251/)
-- E-Commerce Web Application: *Coming Soon!*
+- Personal Portfolio: *Coming Soon!*
 
 ---
 

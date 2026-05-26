@@ -31,8 +31,8 @@ I'm passionate about web development and backend programming. Currently, I'm bui
 ## 📈 Learning Journey
 
 Currently working on:
-- Building a Personal Portfolio.
-- Improving my frontend skills with HTML, CSS, JavaScript, Raact and Tailwind CSS.
+- Building a Blog Website.
+- Improving my frontend skills with HTML, CSS, JavaScript, React and Tailwind CSS.
 
 ---
 

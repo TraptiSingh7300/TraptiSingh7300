@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trapti Singh!
 
-🎓 **Student & Aspiring Developer**  
+🎓 **Aspiring Developer**  
 💻 **Skills:** JavaScript (ES6+), HTML5, CSS3, MySQL, MongoDB, Git & GitHub  
 🌐 **Latest Project:** E-Commerce Web Application (VIBECART)
 

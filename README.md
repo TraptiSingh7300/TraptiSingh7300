@@ -27,7 +27,7 @@
 ## 📂 Featured Projects
 
 ### 🛒 [VIBECART — E-Commerce Web Application](https://github.com/TraptiSingh7300/VIBECART)  
-* **Tech Stack:** JavaScript, HTML5, CSS3, Database (MySQL/MongoDB)  
+* **Tech Stack:** JavaScript, HTML5, CSS3, React, Tailwind CSS, Database (MongoDB)  
 * A full-featured e-commerce platform designed with a responsive UI and seamless user experience. Features dynamic product displays, interactive shopping cart functionality, and structured backend data management.
 
 ### 💼 [LEAD-SYSTEM](https://github.com/TraptiSingh7300/LEAD-SYSTEM)  

@@ -1,25 +1,26 @@
 # 👋 Hi, I'm Trapti Singh!
 
 🎓 **Student & Aspiring Developer**  
-💻 **Skills:** JavaScript (ES6+), HTML5, CSS3, MySQL, MongoDB, Git & GitHub
+💻 **Skills:** JavaScript (ES6+), HTML5, CSS3, MySQL, MongoDB, Git & GitHub  
 🌐 **Latest Project:** E-Commerce Web Application (VIBECART)
 
 ---
 
 ## 🚀 About Me
+
 👋 Hi! I'm a developer who loves turning complex problems into elegant, responsive web applications.
 
-💡 Current Focus: Deep-diving into the JavaScript ecosystem (React, Node.js) and mastering database architecture.
+* **💡 Current Focus:** Deep-diving into the JavaScript ecosystem (React, Node.js) and mastering database architecture.
+* **🌱 Learning:** Refining my frontend skills with Tailwind CSS and building robust APIs for modern web apps.
 
-🌱 Continuous Learning: Constantly refining my frontend skills with Tailwind CSS and building robust APIs for modern web apps.
 ---
 
 ## 🛠️ My Tech Stack
 
-- **Programming Languages :** JavaScript (ES6+), HTML5, CSS3, Python, C
-- **Frontend Frameworks :** React.js, Redux (if applicable), Bootstrap, Tailwind CSS
-- **Backend & Databases :** Node.js, Express.js, MongoDB, MySQL
-- **Tools & Version Control :** Git, GitHub, VS Code, Postman
+- **Programming Languages:** JavaScript (ES6+), HTML5, CSS3, Python, C
+- **Frontend Frameworks:** React.js, Bootstrap, Tailwind CSS
+- **Backend & Databases:** Node.js, Express.js, MongoDB, MySQL
+- **Tools & Version Control:** Git, GitHub, VS Code, Postman
 
 ---
 
@@ -49,9 +50,9 @@ Currently working on:
 
 ## 📫 Contact Me
 
-- Email: [traptisingh7300@gmail.com]
-- LinkedIn: (https://www.linkedin.com/in/trapti-singh-3a3676251/)
-- Blog Website: *Coming Soon!*
+- **Email:** [traptisingh7300@gmail.com](mailto:traptisingh7300@gmail.com)
+- **LinkedIn:** [Trapti Singh](https://www.linkedin.com/in/trapti-singh-3a3676251/)
+- **Blog Website:** *Coming Soon!*
 
 ---
 
